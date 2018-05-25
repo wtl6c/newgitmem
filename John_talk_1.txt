@@ -1,0 +1,13 @@
+1. I2C - Code for NAKS and DeadLocks (i2c driver)
+2. Look for dummy code within different files that just print
+3. Check the Timeline(on drive)
+4. Talk to seth about radio documentation
+5. Start with the EPS. 
+
+
+
+All caps are predfined in EPS_commands.h
+
+motherboards bus connections
+
+ 
