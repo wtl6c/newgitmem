@@ -1,0 +1,2 @@
+# newgitmem
+learning github
